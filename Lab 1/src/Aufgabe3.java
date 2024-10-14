@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 public class Aufgabe3 {
     public static void main(String[] args) {
-        int[] firstArray = {8, 6, 4, 0, 0, 0, 0, 0};
-        int[] secondArray = {3, 2, 9, 0, 0, 0, 0, 0};
+        int[] firstArray = {8, 8, 1, 0, 0, 0, 0, 0};
+        int[] secondArray = {3, 3, 9, 0, 0, 0, 0, 0};
         //Unterpunkt 1
         System.out.println(Arrays.toString(bigSum(firstArray, secondArray)));
         //Unterpunkt 2

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Aufgabe1 {
     public static void main(String[] args) {
-        int[] grades = {37, 39, 89, 12, 75, 93, 7, 28, 13};
+        int[] grades = {40, 45, 57, 13, 77, 35, 16, 6, 18};
         //Unterpunkt 1
         System.out.println(Arrays.toString(failingGrades(grades)));
         //Unterpunkt2

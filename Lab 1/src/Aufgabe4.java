@@ -1,8 +1,8 @@
 public class Aufgabe4 {
     public static void main(String[] args) {
-        int[] keyboards = {5, 10, 20, 35, 50, 65, 40};
-        int[] drives = {15, 75, 80, 30, 25, 10, 60};
-        int budget = 35;
+        int[] keyboards = {10, 15, 20, 30, 50, 65, 40};
+        int[] drives = {30, 55, 65, 70, 20, 15, 60};
+        int budget = 40;
         //unterpunkt 1
         System.out.println("Most cheap keyboard is: " + cheapestKeyboard(keyboards));
         //Unterpunkt 2

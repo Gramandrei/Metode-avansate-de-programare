@@ -1,7 +1,7 @@
 public class Aufgabe2 {
     public static void main(String[] args) {
-        int[] numbers = {45, 12, 78, 36, 59, 23, 81, 7, 50, 91, 14, 67, 88, 32, 3, 62, 19, 96, 27, 41};
-        int[] numbers2 = {4, 8, 3, 10, 17};
+        int[] numbers = {13, 15, 80, 36, 96, 23, 88, 7, 55, 91, 14, 67, 76, 32, 4, 51, 19, 31, 27, 41};
+        int[] numbers2 = {2, 6, 17, 10, 7};
         //Unterpunkt 1
         System.out.println(maxNumber(numbers));
         //UNterpunkt 2
